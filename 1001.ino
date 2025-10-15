@@ -1,7 +1,7 @@
-const int buttonPin = 2;
-const int RledPin = 3;
-const int GledPin = 4;
-const int BledPin = 5;
+const int buttonPin = 8;
+const int RledPin = 2;
+const int GledPin = 6;
+const int BledPin = 4;
 
 int buttonState = 0;
 int ledState = LOW;
